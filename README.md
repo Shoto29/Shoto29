@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shoto29, My name is Nicholas da Silva and I'm from Brazil.
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
